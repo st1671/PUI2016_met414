@@ -1,9 +1,9 @@
-PUI 2016 HW 1 - Marc Toneatto
+# PUI 2016 HW 1 - Marc Toneatto
 
-Assignment 1 - Finishing Lab:
+# Assignment 1 - Finishing Lab:
   Following the steps given on the class website, I was able to successfully resolve the git merge conflict
   
-Assignment 2 - Setting Up the Environment
+# Assignment 2 - Setting Up the Environment:
   To create an Environmental Variable that led to the PUI2016_met414 directory, I opened the bash profile and entered the following command, as shown in the bash profile screenshot:
    export PUI2016=/home/cusp/met414/PUI2016_met414
    
